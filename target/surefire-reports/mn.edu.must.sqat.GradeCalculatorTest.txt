@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: mn.edu.must.sqat.GradeCalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.226 s -- in mn.edu.must.sqat.GradeCalculatorTest
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.182 s -- in mn.edu.must.sqat.GradeCalculatorTest
